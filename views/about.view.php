@@ -11,8 +11,5 @@
       <h1>About Page</h1>
     </div>
   </main>
-</div>
 
-       
-    </body>
-</html>
+  <?php require("partials/footer.php") ?>

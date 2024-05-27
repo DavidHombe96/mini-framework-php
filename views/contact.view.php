@@ -11,8 +11,5 @@
       <h1>Contact Page</h1>
     </div>
   </main>
-</div>
-
-       
-    </body>
-</html>
+  
+  <?php require("partials/footer.php") ?>

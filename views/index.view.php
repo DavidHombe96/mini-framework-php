@@ -12,8 +12,5 @@
       <h1>Hello , World</h1>
     </div>
   </main>
-</div>
 
-       
-    </body>
-</html>
+  <?php require("partials/footer.php") ?>

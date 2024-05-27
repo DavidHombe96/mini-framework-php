@@ -12,4 +12,4 @@
     </head>
     <body class ="h-full">
 
-<div class="min-h-full"></div>
+<div class="min-h-full">
